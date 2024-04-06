@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <main>
+    {{ .Content }}
+    {{- range .Pages.GroupByDate "Monday January 2" "asc" }}
+      <h4>{{ .Key }}</h4>
+      {{ range .Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    {{- end }}
+  </main>
+{{ end }}

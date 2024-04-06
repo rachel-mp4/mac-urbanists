@@ -4,7 +4,7 @@
 [posts]
 
 [posts.title]
-other = "Posts"
+other = "upcoming"
 
 [posts.date]
 other = "Jan 2, 2006"
@@ -14,6 +14,3 @@ other = "Jan 2, 2006"
 
 [post.created]
 other = "January 2, 2006"
-
-[post.updated]
-other = "Updated January 2, 2006"
