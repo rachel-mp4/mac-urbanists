@@ -18,3 +18,8 @@ _organizer: Eli Suppelsa_
 Tactical urbanism is assuming responsibility for the urban environment at the human scale. The tactical urbanist committee is interested in urban agriculture and guerilla crosswalks \
 _organizer: Zoey Yandell_
 
+
+check out our social media & join our slack
+- [instagram](https://www.instagram.com/mac_urbanists/)
+- [twitter](https://www.twitter.com/mac_urbanists/)
+- [slack](https://join.slack.com/t/macalesterurbanists/shared_invite/zt-2g67u1jw7-M95mmD5Qp3RNPMhOtexPMw)
