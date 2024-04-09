@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'mac urbanists'
 theme = 'etch'
+timeZone = "America/Chicago"
 
 [menus]
 [[menus.main]]
