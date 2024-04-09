@@ -17,14 +17,21 @@
     <loc>http://localhost:1313/zoning/hearing/</loc>
     <lastmod>2024-04-12T08:30:00-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tactics/meeting/</loc>
+    <lastmod>2024-04-11T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rondo/meeting/</loc>
+    <lastmod>2024-04-10T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rondo/</loc>
+    <lastmod>2024-04-10T19:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/zoning/meeting/</loc>
     <lastmod>2024-04-10T17:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/rondo/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
