@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tactics on mac urbanists</title>
-    <link>http://localhost:1313/tactics/</link>
-    <description>Recent content in tactics on mac urbanists</description>
+    <title>Posts on mac urbanists</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on mac urbanists</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 15:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 16:30:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tactics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
