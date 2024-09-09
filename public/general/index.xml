@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generals on mac urbanists</title>
+    <link>http://localhost:1313/general/</link>
+    <description>Recent content in Generals on mac urbanists</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2024 18:11:32 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
